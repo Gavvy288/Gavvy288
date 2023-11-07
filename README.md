@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Gavvy288
-- 👀 I’m interested in learning as much as I can about full stack devlopment, but i'm totally new t
+- 👀 I’m interested in learning as much as I can about full stack devlopment, but i'm totally new
+- to it!
 - 📫 How to reach me ...
 
 <!---
